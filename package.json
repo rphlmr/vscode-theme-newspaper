@@ -1,12 +1,14 @@
 {
   "name": "newspaper",
   "displayName": "Newspaper",
-  "description": "",
-  "version": "1.0.0",
+  "description": "A simple light theme with few colors",
+  "publisher": "rphlmr",
+  "version": "1.0.1",
   "repository": "https://github.com/rphlmr/vscode-theme-newspaper",
   "engines": {
     "vscode": "^1.84.0"
   },
+  "logo": "images/icon.png",
   "categories": [
     "Themes"
   ],
