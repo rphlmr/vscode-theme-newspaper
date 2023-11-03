@@ -3,12 +3,12 @@
   "displayName": "Newspaper",
   "description": "A simple light theme with few colors",
   "publisher": "rphlmr",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": "https://github.com/rphlmr/vscode-theme-newspaper",
   "engines": {
     "vscode": "^1.84.0"
   },
-  "logo": "logo.png",
+  "icon": "logo.png",
   "categories": [
     "Themes"
   ],

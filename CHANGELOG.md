@@ -1,3 +1,9 @@
+## Version 1.0.4
+
+- Fix terminal color
+- Change number color
+- Fix markdown token color
+ 
 ## Version 1.0.3
 
 - Fix list hover colors

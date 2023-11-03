@@ -29,6 +29,7 @@ type FuncParam = {
   export function View(){
 	return (
 	  <div className="flex flex-col">
+		<h1>Hello there</h1>
 		<Component length={10} />
 	  </div>
 	);

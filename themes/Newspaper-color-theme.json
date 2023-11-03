@@ -70,19 +70,19 @@
 	  "terminal.background": "#fafafa",
 	  "terminal.foreground": "#09090b",
 	  "terminal.ansiBrightGreen": "#3f6212",
-	  "terminal.ansiBrightBlack": "#09090b",
+	  "terminal.ansiBrightBlack": "#fafafa",
 	  "terminal.ansiBrightCyan": "#155e75",
 	  "terminal.ansiBrightBlue": "#1e40af",
 	  "terminal.ansiBrightRed": "#991b1b",
-	  "terminal.ansiBrightWhite": "#fafafa",
+	  "terminal.ansiBrightWhite": "#09090b",
 	  "terminal.ansiBrightMagenta": "#86198f",
 	  "terminal.ansiBrightYellow": "#92400e",
 	  "terminal.ansiGreen": "#3f6212",
-	  "terminal.ansiBlack": "#09090b",
+	  "terminal.ansiBlack": "#fafafa",
 	  "terminal.ansiCyan": "#155e75",
 	  "terminal.ansiBlue": "#1e40af",
 	  "terminal.ansiRed": "#991b1b",
-	  "terminal.ansiWhite": "#fafafa",
+	  "terminal.ansiWhite": "#09090b",
 	  "terminal.ansiMagenta": "#86198f",
 	  "terminal.ansiYellow": "#92400e"
 	},
@@ -105,6 +105,21 @@
 	  },
 	  {
 		"scope": [
+		  "punctuation.definition.heading.markdown",
+		  "punctuation.definition.bold.markdown",
+		  "punctuation.definition.italic.markdown",
+		  "punctuation.definition.strikethrough.markdown",
+		  "punctuation.definition.link.title.begin.markdown",
+		  "punctuation.definition.link.title.end.markdown",
+		  "punctuation.definition.metadata.markdown"
+		],
+		"settings": {
+		  "foreground": "#86198f",
+		  "fontStyle": ""
+		}
+	  },
+	  {
+		"scope": [
 		  "string",
 		  "markup.inline.raw.string.markdown",
 		  "markup.underline.link"
@@ -116,7 +131,7 @@
 	  {
 		"scope": ["constant.numeric"],
 		"settings": {
-		  "foreground": "#3730a3",
+		  "foreground": "#1e40af",
 		  "fontStyle": ""
 		}
 	  },
@@ -213,7 +228,7 @@
 		}
 	  },
 	  {
-		"scope": ["variable.object.property.ts"],
+		"scope": ["variable.object.property.ts", "meta.object-literal.key"],
 		"settings": {
 		  "foreground": "#09090b",
 		  "fontStyle": ""
@@ -245,9 +260,9 @@
 		}
 	  },
 	  {
-		"scope": ["meta.tag.without-attributes"],
+		"scope": ["meta.tag.without-attributes", "meta.jsx.children"],
 		"settings": {
-		  "foreground": "#71717a",
+		  "foreground": "#09090b",
 		  "fontStyle": ""
 		}
 	  },
@@ -261,14 +276,15 @@
 	  {
 		"scope": "invalid.illegal",
 		"settings": {
-		  "foreground": "#D91E18"
+		  "foreground": "#dc2626",
+		  "fontStyle": "italic"
 		}
 	  },
 	  {
 		"scope": "invalid.deprecated",
 		"settings": {
-		  "foreground": "#D91E18",
-		  "fontStyle": " italic"
+		  "foreground": "#dc2626",
+		  "fontStyle": "italic strikethrough"
 		}
 	  },
 	  {
