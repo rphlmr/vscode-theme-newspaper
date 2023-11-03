@@ -1,0 +1,21 @@
+{
+  "name": "newspaper",
+  "displayName": "Newspaper",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Newspaper",
+        "uiTheme": "vs",
+        "path": "./themes/Newspaper-color-theme.json"
+      }
+    ]
+  }
+}
