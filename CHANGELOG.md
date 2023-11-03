@@ -3,6 +3,7 @@
 - Fix terminal non bright color
 - Fix json key name color
 - Fix comment `//` color
+- Fix status bar remote icon color
 
 ## Version 1.0.1
 

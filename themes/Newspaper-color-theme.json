@@ -37,6 +37,8 @@
 		"statusBar.background": "#fafafa",
 		"statusBar.foreground": "#09090b",
 		"statusBar.noFolderBackground": "#fafafa",
+		"statusBarItem.remoteBackground": "#fafafa",
+		"statusBarItem.remoteForeground": "#09090b",
 		"titleBar.activeBackground": "#fafafa",
 		"titleBar.activeForeground": "#09090b",
 		"titleBar.border": "#fafafa",
