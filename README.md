@@ -1,6 +1,9 @@
 # Newspaper Theme
 
-![](https://raw.githubusercontent.com/rphlmr/vscode-theme-newspaper/master/images/icon.png)
+<p align="center">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/rphlmr/vscode-theme-newspaper/master/images/icon.png">
+</p>
+
 
 This theme is inspired by Quiet Light.
 
