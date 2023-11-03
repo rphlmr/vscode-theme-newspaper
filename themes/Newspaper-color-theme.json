@@ -109,7 +109,8 @@
 		  "punctuation.accessor",
 		  "keyword.operator",
 		  "constant.language",
-		  "storage"
+		  "storage",
+		  "storage.type.class.jsdoc"
 		],
 		"settings": {
 		  "foreground": "#71717a"
@@ -123,7 +124,10 @@
 		  "punctuation.definition.strikethrough.markdown",
 		  "punctuation.definition.link.title.begin.markdown",
 		  "punctuation.definition.link.title.end.markdown",
-		  "punctuation.definition.metadata.markdown"
+		  "punctuation.definition.metadata.markdown",
+		  "storage.type.function",
+		  "storage.type.type",
+		  "storage.type.interface"
 		],
 		"settings": {
 		  "foreground": "#86198f",
@@ -167,7 +171,7 @@
 		}
 	  },
 	  {
-		"scope": ["keyword.control.flow", "keyword.control.loop", "keyword.control.trycatch"],
+		"scope": ["keyword.control.flow", "keyword.control.loop", "keyword.control.trycatch", "keyword.control.default", "storage.modifier.async"],
 		"settings": {
 		  "fontStyle": "bold"
 		}
@@ -205,7 +209,7 @@
 		}
 	  },
 	  {
-		"scope": ["support.type", "support.class"],
+		"scope": ["support.class"],
 		"settings": {
 		  "foreground": "#09090b",
 		  "fontStyle": "bold"
@@ -219,7 +223,7 @@
 		}
 	  },
 	  {
-		"scope": ["entity.name.type", "entity.other.inherited-class", "support.type.primitive"],
+		"scope": ["entity.name.type", "entity.other.inherited-class", "support.type.primitive", "support.type.builtin"],
 		"settings": {
 		  "foreground": "#a1a1aa",
 		  "fontStyle": ""
