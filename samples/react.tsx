@@ -1,36 +1,30 @@
-import React from 'react';
+import React from "react";
 
 type FuncParam = {
-	length: number;
-  }
-  
-  /**
-   * @param {number} length
-   */
-  function func(param: FuncParam) {
-	  var text = 'string';
-	  for (var i = 0; i < param.length; i++) {
-		  text += i;
-	  }
-	  return {
-		  "text": text,
-		  "boolean": false
-	  };
-  }
-  
-  function Component({length}: {length: number}) {
-	return (
-	  <div>
-		{func({length}).text}
-	  </div>
-	);
-  }
-  
-  export function View(){
-	return (
-	  <div className="flex flex-col">
-		<h1>Hello there</h1>
-		<Component length={10} />
-	  </div>
-	);
-  }
+  length: number;
+};
+
+/**
+ * @param {number} length
+ */
+function forcePush(param: FuncParam) {
+  return {
+    force: param.length * 1_000,
+    lightSide: true,
+  };
+}
+
+const Jedi = ({ name }: { name: string }) => {
+  return <h2>{name}</h2>;
+};
+
+export function View() {
+  const title = "Master";
+
+  return (
+    <div className="flex flex-col">
+      <h1>Hello there</h1>
+      <Jedi name={`${title} Obi-wan`} />
+    </div>
+  );
+}

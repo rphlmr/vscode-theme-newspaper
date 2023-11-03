@@ -1,3 +1,9 @@
+## Version 1.0.8
+
+- Change scalars color
+- Change numbers and constant color
+- Change control flow color
+
 ## Version 1.0.7
 
 - Fix highlight background color
