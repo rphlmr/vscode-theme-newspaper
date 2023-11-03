@@ -1,3 +1,11 @@
+## Version 1.0.3
+
+- Fix list hover colors
+- Make object literal keys more visible
+- Make class names more visible
+- Make controls more visible
+- Make quotes less visible
+
 ## Version 1.0.2
 
 - Fix terminal non bright color
