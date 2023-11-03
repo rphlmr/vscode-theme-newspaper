@@ -69,7 +69,7 @@
 	  "editorCodeLens.foreground": "#a1a1aa",
 	  "terminal.background": "#fafafa",
 	  "terminal.foreground": "#09090b",
-	  "terminal.ansiBrightGreen": "#3f6212",
+	  "terminal.ansiBrightGreen": "#115e59",
 	  "terminal.ansiBrightBlack": "#fafafa",
 	  "terminal.ansiBrightCyan": "#155e75",
 	  "terminal.ansiBrightBlue": "#1e40af",
@@ -77,7 +77,7 @@
 	  "terminal.ansiBrightWhite": "#09090b",
 	  "terminal.ansiBrightMagenta": "#86198f",
 	  "terminal.ansiBrightYellow": "#92400e",
-	  "terminal.ansiGreen": "#3f6212",
+	  "terminal.ansiGreen": "#115e59",
 	  "terminal.ansiBlack": "#fafafa",
 	  "terminal.ansiCyan": "#155e75",
 	  "terminal.ansiBlue": "#1e40af",
@@ -134,7 +134,7 @@
 	  {
 		"scope": ["constant.numeric"],
 		"settings": {
-		  "foreground": "#1e40af",
+		  "foreground": "#115e59",
 		  "fontStyle": ""
 		}
 	  },

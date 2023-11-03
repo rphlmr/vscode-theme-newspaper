@@ -1,5 +1,9 @@
 ## Version 1.0.5
 
+- Change number color 
+  
+## Version 1.0.5
+
 - Fix punctuation color 
   
 ## Version 1.0.4
