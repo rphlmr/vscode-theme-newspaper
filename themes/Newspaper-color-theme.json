@@ -73,11 +73,19 @@
 		"terminal.ansiBrightRed": "#991b1b",
 		"terminal.ansiBrightWhite": "#fafafa",
 		"terminal.ansiBrightMagenta": "#86198f",
-		"terminal.ansiBrightYellow": "#92400e"
+		"terminal.ansiBrightYellow": "#92400e",
+		"terminal.ansiGreen": "#3f6212",
+		"terminal.ansiBlack": "#09090b",
+		"terminal.ansiCyan": "#155e75",
+		"terminal.ansiBlue": "#1e40af",
+		"terminal.ansiRed": "#991b1b",
+		"terminal.ansiWhite": "#fafafa",
+		"terminal.ansiMagenta": "#86198f",
+		"terminal.ansiYellow": "#92400e",
 	},
 	"tokenColors": [
 		{
-			"scope": "comment",
+			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
 				"foreground": "#a1a1aa"
 			}
@@ -112,7 +120,7 @@
 			}
 		},
 		{
-			"scope": "variable",
+			"scope": ["variable", "support.type.property-name.json"],
 			"settings": {
 				"foreground": "#09090b"
 			}
