@@ -97,7 +97,10 @@
 		"scope": [
 		  "punctuation.definition",
 		  "punctuation.support.type.property-name",
-		  "punctuation.terminator.statement"
+		  "punctuation.terminator.statement",
+		  "punctuation.section",
+		  "punctuation.separator",
+		  "meta.brace"
 		],
 		"settings": {
 		  "foreground": "#71717a"
