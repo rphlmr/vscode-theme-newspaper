@@ -8,7 +8,7 @@
   "engines": {
     "vscode": "^1.84.0"
   },
-  "logo": "images/icon.png",
+  "logo": "logo.png",
   "categories": [
     "Themes"
   ],

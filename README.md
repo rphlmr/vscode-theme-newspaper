@@ -1,7 +1,7 @@
 # Newspaper Theme
 
 <p align="center">
-  <img width="300" height="300" src="https://raw.githubusercontent.com/rphlmr/vscode-theme-newspaper/master/images/icon.png">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/rphlmr/vscode-theme-newspaper/master/logo.png">
 </p>
 
 
