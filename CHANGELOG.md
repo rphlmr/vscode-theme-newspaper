@@ -1,3 +1,11 @@
+## Version 1.1.0
+
+- Add new colors for buttons
+- Add new colors for tabs
+- Add new colors for gitDecoration
+- Add new colors for scrollbar
+- Smoother colors for list hover and select
+
 ## Version 1.0.11
 
 - Enhance status bar colors
