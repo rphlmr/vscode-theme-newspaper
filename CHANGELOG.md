@@ -1,3 +1,8 @@
+## Version 1.0.10
+
+- Fix highlight background color
+- Customize diff colors
+
 ## Version 1.0.9
 
 - Fix regression on keyword color

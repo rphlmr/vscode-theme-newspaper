@@ -1,24 +1,24 @@
 {
-  "name": "newspaper",
-  "displayName": "Newspaper",
-  "description": "A simple light theme with few colors",
-  "publisher": "rphlmr",
-  "version": "1.0.9",
-  "repository": "https://github.com/rphlmr/vscode-theme-newspaper",
-  "engines": {
-    "vscode": "^1.84.0"
-  },
-  "icon": "logo.png",
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Newspaper",
-        "uiTheme": "vs",
-        "path": "./themes/Newspaper-color-theme.json"
-      }
-    ]
-  }
+	"name": "newspaper",
+	"displayName": "Newspaper",
+	"description": "A simple light theme with few colors",
+	"publisher": "rphlmr",
+	"version": "1.0.10",
+	"repository": "https://github.com/rphlmr/vscode-theme-newspaper",
+	"engines": {
+		"vscode": "^1.84.0"
+	},
+	"icon": "logo.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Newspaper",
+				"uiTheme": "vs",
+				"path": "./themes/Newspaper-color-theme.json"
+			}
+		]
+	}
 }
