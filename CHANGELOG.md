@@ -1,3 +1,7 @@
+## Version 1.0.11
+
+- Enhance status bar colors
+
 ## Version 1.0.10
 
 - Fix highlight background color
