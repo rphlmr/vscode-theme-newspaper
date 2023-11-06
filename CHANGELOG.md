@@ -1,4 +1,9 @@
-## Version 1.4.0
+## Version 1.6.0
+
+- Change tree indent guides color
+- Add debugger view colors
+
+## Version 1.5.0
 
 - editorGutter uses the theme color
 - Fix untrackedResourceForeground wrong green color
