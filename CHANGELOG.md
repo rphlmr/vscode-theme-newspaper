@@ -1,3 +1,13 @@
+## Version 1.3.0
+
+- Smoother editorWidget background color and border color
+- Smoother panel border color
+- panelTitle colors match tab colors
+- Scrollbar has the same color as the list hover color
+- No ruler color
+- peekView border is now light gray instead of dark gray
+- sideBarSectionHeader background color is now the same as the editor/list background color
+
 ## Version 1.2.1
 
 - Ghost text color (Github copilot suggestions) has the same color as the comment color
