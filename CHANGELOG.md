@@ -1,3 +1,7 @@
+## Version 1.4.0
+
+- commandCenter with the theme colors
+
 ## Version 1.3.0
 
 - Smoother editorWidget background color and border color
