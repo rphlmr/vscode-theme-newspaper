@@ -1,3 +1,7 @@
+## Version 1.2.1
+
+- Ghost text color (Github copilot suggestions) has the same color as the comment color
+
 ## Version 1.2.0
 
 - Add gitDecoration missing colors 

@@ -133,7 +133,8 @@
 		"settings.modifiedItemIndicator": "#0284c7",
 		"settings.settingsHeaderHoverForeground": "#09090b",
 		"settings.headerForeground": "#09090b",
-		"settings.textInputForeground": "#09090b"
+		"settings.textInputForeground": "#09090b",
+		"editorGhostText.foreground": "#a1a1aa"
 	},
 	"tokenColors": [
 		{
