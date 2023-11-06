@@ -1,6 +1,12 @@
 ## Version 1.4.0
 
-- commandCenter with the theme colors
+- editorGutter uses the theme color
+- Fix untrackedResourceForeground wrong green color
+- Darker blue, green and rose for the diff colors and git related colors
+
+## Version 1.4.0
+
+- commandCenter uses the theme colors
 
 ## Version 1.3.0
 
