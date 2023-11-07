@@ -1,5 +1,6 @@
 # Newspaper Theme
 
+
 <p align="center">
   <img width="300" height="300" src="https://raw.githubusercontent.com/rphlmr/vscode-theme-newspaper/master/logo.png">
 </p>
@@ -14,6 +15,8 @@ No yellow, green or red tokens (I have a hard time reading them on a light backg
 Typescript types are dimmed, like comments.
 
 **Enjoy!**
+
+![](https://raw.githubusercontent.com/rphlmr/vscode-theme-newspaper/master/screenshots/vscode-preview.png)
 
 ![](https://raw.githubusercontent.com/rphlmr/vscode-theme-newspaper/master/screenshots/preview.png)
 

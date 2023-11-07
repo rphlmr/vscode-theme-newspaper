@@ -1,3 +1,7 @@
+## Version 1.7.0
+
+- Fold background color use the theme color
+
 ## Version 1.6.0
 
 - Change tree indent guides color
