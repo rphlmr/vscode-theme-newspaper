@@ -16,7 +16,7 @@ Typescript types are dimmed, like comments.
 
 **Enjoy!**
 
-![](https://raw.githubusercontent.com/rphlmr/vscode-theme-newspaper/master/screenshots/vscode-preview.png)
+![](https://raw.githubusercontent.com/rphlmr/vscode-theme-newspaper/master/screenshots/editor-preview.png)
 
 ![](https://raw.githubusercontent.com/rphlmr/vscode-theme-newspaper/master/screenshots/preview.png)
 
