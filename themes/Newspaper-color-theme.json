@@ -176,7 +176,8 @@
 		"commandCenter.activeBorder": "#e4e4e7",
 		"editorGutter.addedBackground": "#4d7c0f80",
 		"editorGutter.modifiedBackground": "#0369a180",
-		"editorGutter.deletedBackground": "#be123c80"
+		"editorGutter.deletedBackground": "#be123c80",
+		"textPreformat.foreground": "#075985"
 	},
 	"tokenColors": [
 		{
@@ -236,7 +237,7 @@
 		{
 			"scope": ["constant.numeric", "constant.language"],
 			"settings": {
-				"foreground": "#92400e",
+				"foreground": "#5b21b6",
 				"fontStyle": ""
 			}
 		},

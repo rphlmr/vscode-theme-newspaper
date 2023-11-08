@@ -1,3 +1,8 @@
+## Version 2.0.0
+
+- Constants numeric and language are now violet. I feel better with this color than the previous amber.
+- Markdown's textPreformat is now blueish like markdown text between backticks.
+
 ## Version 1.7.0
 
 - Fold background color use the theme color
