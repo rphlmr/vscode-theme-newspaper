@@ -1,3 +1,7 @@
+## Version 2.0.1
+
+- Support from VSCode 1.82.0
+
 ## Version 2.0.0
 
 - Constants numeric and language are now violet. I feel better with this color than the previous amber.
