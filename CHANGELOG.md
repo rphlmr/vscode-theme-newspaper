@@ -1,3 +1,7 @@
+## Version 2.0.2
+
+- Fix terminal colors
+
 ## Version 2.0.1
 
 - Support from VSCode 1.82.0
